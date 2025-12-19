@@ -33,10 +33,14 @@ Admins can manage projects, clients, and view submitted data through the admin p
 - Tailwind CSS
 - shadcn/ui
 
-### Backend
-- Node.js
-- Express.js
-- SupaBase
+## Backend Implementation
+
+This project uses Supabase as a Backend-as-a-Service (BaaS).
+Supabase handles database operations and API endpoints, allowing the frontend
+to interact securely with backend data without a separate server.
+
+This approach simplifies deployment and follows modern full-stack practices.
+
 
 ---
 
