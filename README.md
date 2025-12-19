@@ -59,7 +59,7 @@ This approach simplifies deployment and follows modern full-stack practices.
 ### Prerequisites
 - Node.js
 - npm
-- MongoDB (local or cloud)
+- Supabase (local or cloud)
 
 ### Steps to Run Locally
 
